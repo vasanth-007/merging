@@ -5,3 +5,10 @@
 <body>
 <p>this is sample code</p>
 </html>
+
+<html>
+<head>
+</head>
+<body>
+<p>this is sample code</p>
+</html>
